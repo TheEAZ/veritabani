@@ -1,0 +1,29 @@
+Günümüzde küçük ya da büyük tüm işletmeler faaliyetlerini yerine getirebilmek, rakipleriyle yarışabilmek ve varlıklarını başarılı bir biçimde sürdürebilmek için bilgiye ihtiyaç duyarlar.
+Bu nedenle bilgi, günümüzde üretim faktörleri içinde yer almakta ve sermaye, hammadde, enerji ve iş gücü olarak sıralanan geleneksel üretim faktörleri kadar önem taşımaktadır.
+İşletmelerin faaliyetlerini düzenli ve etkin bir biçimde yerine getirebilmelerinde hayati bir öneme sahip olan bilginin zamanında elde edilebilmesi ve ilgili kişi ve birimlere ihtiyaç duyulduğu anda iletilebilmesi ise bilgi sistemleri aracılığla gerçekleştirilir.
+Bilgi sistemleri; ilgili verilerin toplanması, bu veriler üzerinde birtakım işlemler uygulanarak verilerin yararlı bilgilere dönüştürülmesi ve ilgili kişi ve birimlere iletilmesini, belirli bir düzen içinde gerçekleştiren sistemlerdir.
+İşletmelerde verilerin toplanması ve işlenmesi için kullanılan araçlar, teknikler, yaklaşımlar geçmişle günümüz arasında farklılık gösterse de bilgi sistemlerinin taşıdığı önem aynıdır.
+Teknoloji ve bilgisayar sektöründeki gelişmelere paralel olarak günümüzde bilgi sistemleri, bilgisayar donanımı, yazılım, veri kaynakları, ağ teknolojileri ve insan bileşenlerinden oluşmaktadır.
+Veritabanının Tarihçesi Bir konuyla ilgili verilere hızlı ve kolay biçimde erişebilme isteği, verilerin düzenli biçimde saklanması ihtiyacını doğurmuş, dolayısıyla veritabanı olgusunun bu adla olmasa bile geçmişten günümüze kadar bir biçimde hayatımızda yer almasına neden olmuştur.
+Benzer biçimde devlet kurumları, hastaneler ve ticari kuruluşlar da ihtiyaç duydukları verileri kağıt dosyalar biçiminde ve belirli bir düzende arşivlemekte ve gerekli olduğunda bu arşivlerde arama yaparak istenen Veritabanı Sistemlerinin Temelleri 4 Veritabanı Sistemleri veriye erişmekteydi.
+Kütüphanelerde herhangi bir kitaba erişmek için kullanılan kitap künye bilgisi bu tür düzenlemelere örnek olarak verilebilir.
+Düzenlenmesi ve saklanması gereken veri miktarının giderek artması ve bu verilerin fiziksel olarak uzun süre saklanabilmesi, korunabilmesi ve istendiğinde hızlıca erişilebilmesi kolay bir iş değildi.
+Bu nedenle günümüzde veritabanı denilince akıllara bilgisayar ortamında oluşturulan veritabanları gelmektedir.
+Bilgisayar kullanımının özel işletmeler için uygun maliyetli bir seçenek olmaya başladığı dönem olan 1960`larda veritabanlarının bilgisayarlar yardımıyla oluşturulması dönemi de başlamıştır.
+1960`lar: 1960`lı yılların başında Charles Bachman tarafından IDS (Integrated Data Store-Bütünleştirilmiş Veri Depolama) adıyla ilk genel amaçlı veritabanı yönetim sistemi geliştirilmiştir.
+1960`ların sonunda ise IBM tarafından IMS (Information Management SystemBilgi Yönetim Sistemi) adıyla ilk ticari VTYS (Veritabanı Yönetim Sistemi) geliştirilmiş ve bu yapı hiyerarşik veri modeline temel teşkil etmiştir (Vural ve Sağıroğlu, 2010, s.
+1967`de CODASYL (COnference on Data SYstem Languages) grubu kullanıcı ve bilgisayar üreticileri için COBOL dili standartlarını belirlemiş ve bu standartlar ANSI (American National Standarts Institute-Amerikan Ulusal Standartlar Enstitüsü) tarafından kabul edilmiştir.
+Codd tarafından geliştirilen ilişkisel veritabanı modeli, insanların veritabanları hakkındaki düşüncelerini değiştirecek nitelikte bir gelişme olarak ortaya çıkmıştır.
+Modelde, veritabanının şeması veya mantıksal organizasyonu, fiziksel bilgi deposundan bağımsız hâle getirilmiş ve bu da veritabanları için standart bir prensip hâline gelmiştir.
+Ayrıca, İlişkisel Veritabanı Yönetim Sistemi (RDBMS) bu dönemde bilinen bir terim hâline gelmiştir.
+Buna paralel olarak ilişkisel veritabanı sistemleri, bilgisayar satışlarındaki hızlı yükselişin veritabanı piyasasını canlandırmasıyla ticari bir başarıya dönüşmüştür.
+Bu da ağ ve hiyerarşik veritabanı modellerinin popülaritesinde büyük bir düşüşe yol açmıştır.
+IBM PC`nin tanıtımı da birçok yeni veritabanı şirketinin kuruluşuna ve PARADOX, RBASE 5000, RIM, Dbase III ve IV, OS/2 Database Manager ve Watcom SQL gibi ürünlerin gelişimine yol açmıştır.
+Yine bu dönemde Nesne Veritabanı Yönetim Sistemleri (ODBMS) için prototipler de geliştirilmiştir.
+1990`ların ortalarında internetin kullanılmaya başlanması veritabanı endüstrisinde hızlı bir büyümeye yol açmıştır.
+1990`ların sonlarında online işletmelere artan yatırımlar nedeniyle Front Page, Active Server Pages, Java Servelets, Dream Weaver, ColdFusion, Enterprise Java Beans, ve Oracle Developer 2000 gibi internete bağlı veritabanı bağlayıcılarına olan talep miktarı belirgin olarak artmış, yine bu dönemlerde MySQL, Apache, vb.
+gibi açık kaynak kodlu veritabanı yönetim sistemi yazılımları kullanıma sunulmuştur.
+2000`ler: Internet endüstrisi 2000`lerin başında bir düşüş yaşamasına rağmen veritabanı uygulamaları büyümeye devam etmiştir.
+Web tabanlı işletmelerin artması ve kullanımlarının yaygınlaşması ile veritabanı yönetim sistemlerinin önemi giderek artmaya devam etmekte ve yeni uygulamaların geliştirilmesine neden olmaktadır.
+Günümüzde, veritabanı yönetim sistemi yazılımlarında lider kabul edilen üç işletme Microsoft, IBM ve Oracle olarak sıralanmaktadır.
+VERİTABANINA İLİŞKİN TEMEL KAVRAMLAR Günümüzde sıklıkla karşılaşılan bir kavram hâline gelen veritabanı çok genel anlamda, bir kurumun ihtiyaç duyduğu ve kullandığı veriler bütününü ifade eder.
